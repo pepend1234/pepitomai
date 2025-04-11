@@ -3097,6 +3097,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-04-11 19:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-11 18:41:02 +0000"
@@ -3121,9 +3127,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-04-11 18:34:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:10 +0000"
     },
     "done": true
   },
@@ -3247,9 +3265,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:10 +0000"
     },
     "done": true
   },
@@ -3313,6 +3343,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-11 17:37:24 +0000"
@@ -3322,6 +3358,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-11 17:44:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
     },
     "done": true
   },
@@ -3376,6 +3418,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-11 17:44:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
     },
     "done": true
   },
@@ -3457,6 +3505,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-11 19:23:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
@@ -3526,6 +3580,12 @@
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
     },
     "done": true
   },
@@ -3757,6 +3817,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-11 18:34:38 +0000"
@@ -3772,6 +3838,12 @@
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-04-11 17:44:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:10 +0000"
     },
     "done": true
   },
@@ -3871,6 +3943,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
@@ -3901,6 +3979,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-11 18:34:38 +0000"
@@ -3928,6 +4012,12 @@
   "cfm:recipes/decorations/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-04-11 19:23:10 +0000"
     },
     "done": true
   },
@@ -4105,6 +4195,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
@@ -4147,6 +4243,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
@@ -4162,6 +4264,18 @@
   "cfm:recipes/decorations/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-11 19:23:27 +0000"
     },
     "done": true
   },

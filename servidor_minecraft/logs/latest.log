@@ -3295,3 +3295,60 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 19:06:51.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Gravedigger]
 [11Apr2025 19:06:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Well prepared]
 [11Apr2025 19:13:12.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [It Came from The Pit]
+[11Apr2025 19:15:47.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Fire Dragon
+[11Apr2025 19:16:12.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was slain by Fire Dragon
+[11Apr2025 19:17:07.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was turned into KFC by Fire Dragon
+[11Apr2025 19:18:40.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was turned into KFC by Fire Dragon
+[11Apr2025 19:18:49.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Dragonslayer]
+[11Apr2025 19:18:54.403] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hero'/90539, l='ServerLevel[world]', x=-1312.49, y=70.25, z=176.78] died, message: 'Hero burned to death'
+[11Apr2025 19:18:54.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hero'/90539, l='ServerLevel[world]', x=-1312.49, y=70.25, z=176.78] died: Hero burned to death
+[11Apr2025 19:20:21.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Ice Bucket Challenge]
+[11Apr2025 19:23:17.242] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1378, y=62, z=107}
+[11Apr2025 19:25:33.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Dark Metallurgy]
+[11Apr2025 19:25:44.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Grave Ravager]
+[11Apr2025 19:26:33.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was slain by Vindicator
+[11Apr2025 19:27:20.715] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Apr2025 19:27:20.717] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Apr2025 19:31:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was shot by Skeleton
+[11Apr2025 19:31:44.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has completed the challenge [The Buddha]
+[11Apr2025 19:32:32.214] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11Apr2025 19:32:32.236] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11Apr2025 19:32:32.239] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11Apr2025 19:32:32.351] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11Apr2025 19:32:32.379] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11Apr2025 19:32:32.381] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11Apr2025 19:32:32.403] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11Apr2025 19:32:32.422] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11Apr2025 19:32:36.670] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[11Apr2025 19:32:36.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6037ms or 120 ticks behind
+[11Apr2025 19:33:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Apr2025 19:33:08.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Apr2025 19:33:08.766] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[11Apr2025 19:33:08.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Apr2025 19:33:08.856] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[11Apr2025 19:33:08.981] [DefaultDispatcher-worker-4/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[11Apr2025 19:33:10.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Apr2025 19:33:14.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[11Apr2025 19:33:14.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[11Apr2025 19:33:14.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Apr2025 19:33:14.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Apr2025 19:33:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/world:madnessdimension
+[11Apr2025 19:33:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/unearthed_journey:pleistocene
+[11Apr2025 19:33:14.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/unearthed_journey:neogene
+[11Apr2025 19:33:14.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/unearthed_journey:paleogene
+[11Apr2025 19:33:14.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/world:worldtest_1
+[11Apr2025 19:33:14.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Apr2025 19:33:14.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[11Apr2025 19:33:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[11Apr2025 19:33:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Apr2025 19:33:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Apr2025 19:33:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (madnessdimension): All chunks are saved
+[11Apr2025 19:33:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pleistocene): All chunks are saved
+[11Apr2025 19:33:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (neogene): All chunks are saved
+[11Apr2025 19:33:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (paleogene): All chunks are saved
+[11Apr2025 19:33:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (worldtest_1): All chunks are saved
+[11Apr2025 19:33:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Apr2025 19:33:14.794] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11Apr2025 19:33:14.798] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[11Apr2025 19:33:14.803] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[11Apr2025 19:33:14.805] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
