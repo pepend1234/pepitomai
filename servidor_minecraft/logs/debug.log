@@ -8703,3 +8703,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 17:32:15.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Getting an Upgrade]
 [11Apr2025 17:33:19.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Apr2025 17:33:19.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 17:36:32.243] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1319, y=63, z=-126}
+[11Apr2025 17:38:19.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 17:38:19.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 17:39:32.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pepito> hola amigo
+[11Apr2025 17:39:33.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pepito> lin do
+[11Apr2025 17:43:19.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 17:43:19.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

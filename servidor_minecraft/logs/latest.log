@@ -2854,3 +2854,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 17:21:39.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito joined the game
 [11Apr2025 17:28:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was slain by Dread Hound
 [11Apr2025 17:32:15.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Getting an Upgrade]
+[11Apr2025 17:36:32.243] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1319, y=63, z=-126}
+[11Apr2025 17:39:32.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pepito> hola amigo
+[11Apr2025 17:39:33.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pepito> lin do
