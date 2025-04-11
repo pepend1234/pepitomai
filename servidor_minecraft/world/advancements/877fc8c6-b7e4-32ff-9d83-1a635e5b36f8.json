@@ -2653,6 +2653,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-04-11 18:13:20 +0000",
       "sweet_berries": "2025-04-11 00:51:00 +0000",
       "wheat": "2025-04-11 17:54:09 +0000",
       "carrot": "2025-04-11 18:03:37 +0000"

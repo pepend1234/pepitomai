@@ -91,6 +91,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-11 18:22:07 +0000",
       "minecraft:river": "2025-04-11 16:38:42 +0000",
       "minecraft:dripstone_caves": "2025-04-11 17:36:01 +0000",
       "minecraft:forest": "2025-04-11 00:50:40 +0000",
@@ -2196,7 +2197,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-11 18:14:37 +0000",
       "minecraft:skeleton": "2025-04-11 16:37:37 +0000",
+      "minecraft:vindicator": "2025-04-11 18:14:24 +0000",
       "minecraft:spider": "2025-04-11 16:59:13 +0000",
       "minecraft:witch": "2025-04-11 17:03:09 +0000",
       "minecraft:zombie": "2025-04-11 16:26:03 +0000"
@@ -3373,6 +3376,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-04-11 18:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-04-11 17:54:41 +0000"
@@ -3388,6 +3397,12 @@
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-04-11 18:20:32 +0000"
     },
     "done": true
   },
@@ -3649,6 +3664,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-04-11 18:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-11 18:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-11 17:36:44 +0000"
@@ -3700,6 +3727,12 @@
   "cfm:recipes/decorations/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-11 18:15:48 +0000"
     },
     "done": true
   },
