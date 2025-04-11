@@ -2815,3 +2815,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 16:36:26.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was shot by Illusioner
 [11Apr2025 16:39:25.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Cover Me with Diamonds]
 [11Apr2025 16:39:54.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Vindicator
+[11Apr2025 16:43:40.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Vindicator
+[11Apr2025 16:44:18.043] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1220, y=70, z=-86}
+[11Apr2025 16:45:48.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Vindicator
+[11Apr2025 16:47:07.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Dark Metallurgy]
+[11Apr2025 16:47:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was slain by Zombie
+[11Apr2025 16:50:43.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was doomed to fall by Vindicator
+[11Apr2025 16:50:57.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Odd Looking Rocks]
