@@ -2800,3 +2800,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 16:19:19.442] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [11Apr2025 16:19:19.480] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fee97d[id=<null>,name=pasivorico,properties={},legacy=false] (/127.153.194.209:50825) lost connection: Connection closed - mismatched mod channel list
 [11Apr2025 16:21:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Simple Farming]
+[11Apr2025 16:22:01.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pasivorico[/127.153.194.209:41415] logged in with entity id 3034 at (-1237.5, 71.0, 220.5)
+[11Apr2025 16:22:01.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico joined the game
+[11Apr2025 16:22:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Simple Farming]
+[11Apr2025 16:22:09.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11Apr2025 16:22:29.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5453ms or 109 ticks behind
+[11Apr2025 16:22:48.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3338ms or 66 ticks behind
+[11Apr2025 16:23:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Best Friends Forever]
+[11Apr2025 16:25:27.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Take Aim]
+[11Apr2025 16:26:03.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Monster Hunter]
+[11Apr2025 16:29:32.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [The Wind Darkening]
+[11Apr2025 16:32:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Diamonds!]
+[11Apr2025 16:32:54.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Diamonds!]

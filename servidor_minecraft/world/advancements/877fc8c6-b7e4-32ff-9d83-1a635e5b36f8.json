@@ -111,6 +111,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "field": "2025-04-11 16:18:13 +0000",
       "coniferous_forest": "2025-04-11 00:26:54 +0000"
     },
     "done": false
@@ -405,6 +406,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-11 16:19:51 +0000",
       "sweet_berries": "2025-04-11 00:37:03 +0000",
       "bread": "2025-04-11 00:29:47 +0000",
       "cod": "2025-04-11 00:29:15 +0000"
@@ -2261,7 +2263,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-11 16:20:00 +0000",
       "minecraft:skeleton": "2025-04-11 16:17:58 +0000",
+      "minecraft:creeper": "2025-04-11 16:23:46 +0000",
       "minecraft:zombie": "2025-04-11 00:43:31 +0000"
     },
     "done": false
@@ -3274,9 +3278,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-11 16:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-11 16:17:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-04-11 16:23:49 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-04-11 16:26:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-11 16:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-11 16:25:27 +0000"
     },
     "done": true
   },
@@ -3286,9 +3320,51 @@
     },
     "done": true
   },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:chicken": "2025-04-11 16:24:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-11 16:26:29 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-04-11 16:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-11 16:26:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-04-11 16:16:39 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2025-04-11 16:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-11 16:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-11 16:26:29 +0000"
     },
     "done": true
   },
@@ -3313,9 +3389,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-11 16:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-11 16:24:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-04-11 16:18:51 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_leather": {
     "criteria": {
       "has_leather": "2025-04-11 16:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-11 16:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-04-11 16:20:59 +0000"
     },
     "done": true
   },
@@ -3331,15 +3437,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-11 16:23:49 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_membrane": {
     "criteria": {
       "has_membrane": "2025-04-11 16:16:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-11 16:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-11 16:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-11 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-11 16:20:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-04-11 16:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-11 16:23:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-04-11 16:26:29 +0000"
     },
     "done": true
   },
