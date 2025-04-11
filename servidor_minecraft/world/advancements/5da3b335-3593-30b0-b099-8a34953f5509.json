@@ -1,0 +1,181 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2025-04-11 23:54:40 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-04-11 23:52:54 +0000",
+      "has_black_balloon": "2025-04-11 23:52:54 +0000",
+      "has_lime_balloon": "2025-04-11 23:52:54 +0000",
+      "has_cyan_balloon": "2025-04-11 23:52:54 +0000",
+      "has_light_blue_balloon": "2025-04-11 23:52:54 +0000",
+      "has_gray_balloon": "2025-04-11 23:52:54 +0000",
+      "has_pink_balloon": "2025-04-11 23:52:54 +0000",
+      "has_light_gray_balloon": "2025-04-11 23:52:54 +0000",
+      "has_white_balloon": "2025-04-11 23:52:54 +0000",
+      "has_blue_balloon": "2025-04-11 23:52:54 +0000",
+      "has_yellow_balloon": "2025-04-11 23:52:54 +0000",
+      "has_purple_balloon": "2025-04-11 23:52:54 +0000",
+      "has_orange_balloon": "2025-04-11 23:52:54 +0000",
+      "has_brown_balloon": "2025-04-11 23:52:54 +0000",
+      "has_green_balloon": "2025-04-11 23:52:54 +0000",
+      "has_magenta_balloon": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2025-04-11 23:53:57 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-04-11 23:54:37 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-04-11 23:53:57 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "bumbling_beepartments": "2025-04-11 23:52:56 +0000"
+    },
+    "done": false
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "unearthed_journey:unearthed_journey_ad": {
+    "criteria": {
+      "unearthed_journey_ad_0": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2025-04-11 23:53:57 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-04-11 23:52:55 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2025-04-11 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-04-11 23:52:56 +0000",
+      "minecraft:plains": "2025-04-11 23:54:16 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
