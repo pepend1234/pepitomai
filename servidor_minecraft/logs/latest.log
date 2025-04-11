@@ -2845,3 +2845,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 17:13:34.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Alex's Caves]
 [11Apr2025 17:13:52.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Once Upon a Cave]
 [11Apr2025 17:13:56.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [It Belongs in a Museum]
+[11Apr2025 17:16:20.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[11Apr2025 17:16:20.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[11Apr2025 17:20:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico fell from a high place
+[11Apr2025 17:20:58.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was blown up by Phantom Creeper
+[11Apr2025 17:21:04.743] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=3, y=65, z=15}
+[11Apr2025 17:21:39.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepito[/127.40.22.165:51787] logged in with entity id 32347 at (-1387.2762732259907, -31.0, -92.95993436163364)
+[11Apr2025 17:21:39.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito joined the game
