@@ -91,6 +91,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-04-11 16:38:42 +0000",
       "minecraft:forest": "2025-04-11 00:50:40 +0000",
       "minecraft:plains": "2025-04-11 00:53:34 +0000"
     },
@@ -110,6 +111,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-04-11 16:34:41 +0000",
+      "maple_woods": "2025-04-11 16:33:45 +0000",
+      "field": "2025-04-11 16:32:36 +0000",
       "coniferous_forest": "2025-04-11 00:51:29 +0000"
     },
     "done": false
@@ -1956,6 +1960,30 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-11 16:24:56 +0000"
@@ -1968,14 +1996,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-11 16:33:15 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-04-11 16:22:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:pigman": "2025-04-11 16:38:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-11 16:37:37 +0000",
       "minecraft:zombie": "2025-04-11 16:26:03 +0000"
     },
     "done": false
@@ -1986,9 +2039,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-04-11 16:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-11 16:22:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-11 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2025-04-11 16:39:48 +0000"
     },
     "done": true
   },
@@ -2007,6 +2114,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-11 16:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-11 16:34:47 +0000"
     },
     "done": true
   },
@@ -2031,9 +2144,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-11 16:32:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-11 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-04-11 16:33:15 +0000"
     },
     "done": true
   },
@@ -2046,6 +2177,18 @@
   "vs_eureka:recipes/balloon_leather": {
     "criteria": {
       "has_leather": "2025-04-11 16:22:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
     },
     "done": true
   },
@@ -2067,9 +2210,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 16:39:48 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_paper": {
     "criteria": {
       "has_paper": "2025-04-11 16:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
     },
     "done": true
   },
@@ -2091,9 +2258,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-11 16:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
     },
     "done": true
   },
@@ -2115,15 +2294,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-11 16:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-11 16:22:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-11 16:33:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-11 16:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-11 16:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-11 16:40:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
     },
     "done": true
   },
@@ -2145,15 +2354,135 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-04-11 16:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-04-11 16:39:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-11 16:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 16:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-11 16:35:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-04-11 16:23:24 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-11 16:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-04-11 16:35:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 16:39:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-04-11 16:22:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
     },
     "done": true
   },
@@ -2166,6 +2495,12 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-04-11 16:23:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-11 16:39:48 +0000"
     },
     "done": true
   },
@@ -2184,9 +2519,29 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-04-11 16:22:40 +0000",
+      "cooked_beef": "2025-04-11 16:41:51 +0000",
+      "potato": "2025-04-11 16:31:20 +0000",
       "bread": "2025-04-11 16:22:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-11 16:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {

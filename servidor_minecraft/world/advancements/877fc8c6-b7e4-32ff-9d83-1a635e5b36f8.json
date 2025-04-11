@@ -111,6 +111,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "maple_woods": "2025-04-11 16:33:00 +0000",
       "field": "2025-04-11 16:18:13 +0000",
       "coniferous_forest": "2025-04-11 00:26:54 +0000"
     },
@@ -408,6 +409,8 @@
     "criteria": {
       "cooked_porkchop": "2025-04-11 16:19:51 +0000",
       "sweet_berries": "2025-04-11 00:37:03 +0000",
+      "cooked_beef": "2025-04-11 16:32:07 +0000",
+      "apple": "2025-04-11 16:38:14 +0000",
       "bread": "2025-04-11 00:29:47 +0000",
       "cod": "2025-04-11 00:29:15 +0000"
     },
@@ -2265,7 +2268,9 @@
     "criteria": {
       "minecraft:pillager": "2025-04-11 16:20:00 +0000",
       "minecraft:skeleton": "2025-04-11 16:17:58 +0000",
+      "minecraft:vindicator": "2025-04-11 16:34:21 +0000",
       "minecraft:creeper": "2025-04-11 16:23:46 +0000",
+      "minecraft:evoker": "2025-04-11 16:36:25 +0000",
       "minecraft:zombie": "2025-04-11 00:43:31 +0000"
     },
     "done": false
@@ -3278,9 +3283,21 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-04-11 16:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-11 16:24:19 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-04-11 16:31:47 +0000"
     },
     "done": true
   },
@@ -3296,9 +3313,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
   "beautify:lamps": {
     "criteria": {
       "requirement": "2025-04-11 16:26:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-11 16:42:29 +0000"
     },
     "done": true
   },
@@ -3314,9 +3355,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-11 16:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-11 16:39:25 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-04-11 16:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
     },
     "done": true
   },
@@ -3338,9 +3397,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-11 16:29:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-11 16:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-11 16:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-11 16:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-11 16:26:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_terracotta": "2025-04-11 16:41:56 +0000"
     },
     "done": true
   },
@@ -3362,9 +3463,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-04-11 16:41:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-04-11 16:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-04-11 16:29:55 +0000"
     },
     "done": true
   },
@@ -3389,6 +3502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-04-11 16:29:55 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-04-11 16:21:01 +0000"
@@ -3398,6 +3517,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-11 16:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
     },
     "done": true
   },
@@ -3425,9 +3550,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-04-11 16:29:55 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
       "has_gold": "2025-04-11 16:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
     },
     "done": true
   },
@@ -3443,9 +3580,51 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-04-11 16:29:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_sink": {
+    "criteria": {
+      "has_top": "2025-04-11 16:41:56 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_membrane": {
     "criteria": {
       "has_membrane": "2025-04-11 16:16:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-11 16:28:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-11 16:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
     },
     "done": true
   },
@@ -3455,15 +3634,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-04-11 16:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-04-11 16:24:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-11 16:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-11 16:31:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-11 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-04-11 16:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-11 16:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-04-11 16:32:50 +0000"
     },
     "done": true
   },
@@ -3479,15 +3700,57 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-04-11 16:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-11 16:31:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-11 16:29:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-11 16:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-11 16:23:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-11 16:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-04-11 16:26:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-11 16:28:41 +0000"
     },
     "done": true
   },
