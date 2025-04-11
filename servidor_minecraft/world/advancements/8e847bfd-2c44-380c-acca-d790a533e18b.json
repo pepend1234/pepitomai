@@ -3070,5 +3070,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-11 17:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-11 17:32:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
