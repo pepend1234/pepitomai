@@ -9150,3 +9150,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 18:30:12.064] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [11Apr2025 18:33:19.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Apr2025 18:33:19.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 18:38:19.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 18:38:19.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 18:42:17.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Fighting Nightmares]
+[11Apr2025 18:42:43.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Junior Summoner]
+[11Apr2025 18:43:19.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 18:43:19.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 18:45:36.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Helga'/78840, l='ServerLevel[world]', x=-1297.47, y=75.00, z=243.85] died, message: 'Helga was slain by Door Knight'
+[11Apr2025 18:45:36.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Helga'/78840, l='ServerLevel[world]', x=-1297.47, y=75.00, z=243.85] died: Helga was slain by Door Knight
+[11Apr2025 18:47:39.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Klaus'/78849, l='ServerLevel[world]', x=-1224.27, y=72.00, z=210.63] died, message: 'Klaus was slain by Zombie'
+[11Apr2025 18:47:39.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Klaus'/78849, l='ServerLevel[world]', x=-1224.27, y=72.00, z=210.63] died: Klaus was slain by Zombie
+[11Apr2025 18:48:19.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 18:48:19.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 18:50:38.243] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1368, y=63, z=-100}
+[11Apr2025 18:52:46.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pasivorico> -1584,0 -1216 portal
+[11Apr2025 18:53:19.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 18:53:19.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2274,6 +2274,7 @@
       "minecraft:vindicator": "2025-04-11 16:34:21 +0000",
       "minecraft:creeper": "2025-04-11 16:23:46 +0000",
       "minecraft:evoker": "2025-04-11 16:36:25 +0000",
+      "minecraft:phantom": "2025-04-11 18:50:05 +0000",
       "minecraft:stray": "2025-04-11 16:49:49 +0000",
       "minecraft:zombie": "2025-04-11 00:43:31 +0000"
     },
@@ -4421,6 +4422,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-11 17:44:42 +0000"
@@ -4457,15 +4464,39 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-04-11 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
@@ -4502,6 +4533,12 @@
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
@@ -4553,6 +4590,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
@@ -4589,9 +4632,25 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "simplefarming:crops": {
     "criteria": {
-      "broccoli": "2025-04-11 18:24:23 +0000"
+      "sorghum": "2025-04-11 18:45:27 +0000",
+      "radish": "2025-04-11 18:44:52 +0000",
+      "broccoli": "2025-04-11 18:24:23 +0000",
+      "sweet_potato": "2025-04-11 18:44:46 +0000",
+      "cassava": "2025-04-11 18:39:20 +0000"
     },
     "done": false
   },
@@ -4787,6 +4846,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-11 17:35:03 +0000"
@@ -4802,6 +4867,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
     "criteria": {
       "has_log": "2025-04-11 18:06:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
@@ -4826,6 +4897,12 @@
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
@@ -4868,6 +4945,12 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
@@ -4946,6 +5029,30 @@
   "cfm:recipes/decorations/mangrove_desk_cabinet": {
     "criteria": {
       "has_log": "2025-04-11 18:06:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
@@ -5039,6 +5146,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_cabinet": {
     "criteria": {
       "has_log": "2025-04-11 18:06:06 +0000"
@@ -5069,6 +5182,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-11 17:44:47 +0000"
@@ -5084,6 +5203,18 @@
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
@@ -5135,6 +5266,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
@@ -5183,9 +5320,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-11 17:44:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
@@ -5216,6 +5371,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-11 17:44:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
@@ -5351,6 +5512,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-11 17:35:03 +0000"
@@ -5393,6 +5560,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-04-11 18:08:56 +0000"
@@ -5420,6 +5593,18 @@
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-11 18:52:24 +0000"
     },
     "done": true
   },
