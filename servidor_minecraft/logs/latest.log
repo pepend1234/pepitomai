@@ -2831,3 +2831,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 17:02:02.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Bypassing the Expiration Date]
 [11Apr2025 17:02:13.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Amateur Archaeologist]
 [11Apr2025 17:03:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Bypassing the Expiration Date]
+[11Apr2025 17:03:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was slain by Baby Spider
+[11Apr2025 17:04:28.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Deceived Hopes]
+[11Apr2025 17:04:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was slain by Diamond Termite
+[11Apr2025 17:05:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[11Apr2025 17:09:54.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pasivorico lost connection: Disconnected
+[11Apr2025 17:09:54.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico left the game
+[11Apr2025 17:10:20.743] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1375, y=62, z=-97}
+[11Apr2025 17:11:47.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Miphril]
+[11Apr2025 17:12:38.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pasivorico[/127.153.194.209:33681] logged in with entity id 30222 at (-1405.300000011921, -49.0, -92.69999998807907)
+[11Apr2025 17:12:38.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico joined the game
+[11Apr2025 17:13:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Exorcism]
+[11Apr2025 17:13:34.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Alex's Caves]
+[11Apr2025 17:13:52.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Once Upon a Cave]
+[11Apr2025 17:13:56.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [It Belongs in a Museum]

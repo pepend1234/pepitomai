@@ -3866,6 +3866,12 @@
     },
     "done": true
   },
+  "rpgsmw:miphril": {
+    "criteria": {
+      "miphril_0": "2025-04-11 17:11:47 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-11 16:50:29 +0000"
@@ -3932,6 +3938,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-04-11 17:03:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-11 16:32:35 +0000"
@@ -3995,6 +4007,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-04-11 16:16:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-04-11 17:13:13 +0000"
     },
     "done": true
   },
