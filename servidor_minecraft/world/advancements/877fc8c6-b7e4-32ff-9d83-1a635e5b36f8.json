@@ -4589,6 +4589,12 @@
     },
     "done": true
   },
+  "simplefarming:crops": {
+    "criteria": {
+      "broccoli": "2025-04-11 18:24:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-11 17:44:42 +0000"

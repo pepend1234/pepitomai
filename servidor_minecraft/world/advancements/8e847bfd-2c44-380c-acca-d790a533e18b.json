@@ -118,6 +118,7 @@
       "maple_woods": "2025-04-11 16:33:45 +0000",
       "field": "2025-04-11 16:32:36 +0000",
       "coniferous_forest": "2025-04-11 00:51:29 +0000",
+      "seasonal_forest": "2025-04-11 18:30:58 +0000",
       "fir_clearing": "2025-04-11 16:44:21 +0000"
     },
     "done": false
@@ -2065,7 +2066,8 @@
       "apple": "2025-04-11 17:36:50 +0000",
       "potato": "2025-04-11 16:31:20 +0000",
       "bread": "2025-04-11 16:22:51 +0000",
-      "cooked_chicken": "2025-04-11 16:53:56 +0000"
+      "cooked_chicken": "2025-04-11 16:53:56 +0000",
+      "carrot": "2025-04-11 18:31:11 +0000"
     },
     "done": false
   },
@@ -3082,6 +3084,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-11 18:31:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
@@ -3610,6 +3618,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-11 18:31:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
@@ -3784,6 +3798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-11 18:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-04-11 17:35:16 +0000"
@@ -3883,6 +3903,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-11 17:54:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-11 18:31:04 +0000"
     },
     "done": true
   },
