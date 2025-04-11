@@ -2066,6 +2066,7 @@
       "apple": "2025-04-11 17:36:50 +0000",
       "potato": "2025-04-11 16:31:20 +0000",
       "bread": "2025-04-11 16:22:51 +0000",
+      "golden_carrot": "2025-04-11 19:12:18 +0000",
       "cooked_chicken": "2025-04-11 16:53:56 +0000",
       "carrot": "2025-04-11 18:31:11 +0000"
     },
@@ -3204,6 +3205,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-04-11 19:06:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
       "has_dripstone_pillar_trim": "2025-04-11 17:56:18 +0000"
@@ -3252,9 +3259,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-11 19:06:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-11 17:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-11 19:06:27 +0000"
     },
     "done": true
   },
@@ -3582,6 +3601,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-11 19:06:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-11 17:37:24 +0000"
@@ -3618,6 +3643,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-04-11 19:06:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
@@ -3627,6 +3658,12 @@
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2025-04-11 17:45:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-04-11 19:06:21 +0000"
     },
     "done": true
   },
@@ -3681,6 +3718,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-11 18:41:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-11 19:06:27 +0000"
     },
     "done": true
   },
@@ -3801,6 +3844,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-11 17:37:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-04-11 19:06:27 +0000"
     },
     "done": true
   },

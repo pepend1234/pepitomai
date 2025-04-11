@@ -4278,6 +4278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-11 19:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-11 17:44:42 +0000"
@@ -4410,6 +4416,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2025-04-11 19:06:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-11 17:51:24 +0000"
@@ -4443,6 +4455,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-11 17:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-11 19:06:53 +0000"
     },
     "done": true
   },
@@ -4560,15 +4578,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-11 19:06:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-11 17:51:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-04-11 19:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-11 17:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-11 19:06:53 +0000"
     },
     "done": true
   },
@@ -4774,6 +4810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-11 19:06:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"
@@ -4972,6 +5014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-11 19:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-11 17:44:42 +0000"
@@ -5047,6 +5095,18 @@
   "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-04-11 19:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-11 19:06:21 +0000"
     },
     "done": true
   },
@@ -5230,6 +5290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-04-11 19:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-04-11 17:44:42 +0000"
@@ -5362,9 +5428,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-11 19:06:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_desk": {
     "criteria": {
       "has_log": "2025-04-11 18:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-11 19:06:21 +0000"
     },
     "done": true
   },
@@ -5566,6 +5644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-11 19:06:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-04-11 18:52:24 +0000"
@@ -5605,6 +5689,12 @@
   "cfm:recipes/decorations/magenta_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-11 18:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/sludge": {
+    "criteria": {
+      "killed_sludge": "2025-04-11 19:13:12 +0000"
     },
     "done": true
   },
