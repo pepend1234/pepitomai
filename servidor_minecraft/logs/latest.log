@@ -2857,3 +2857,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 17:36:32.243] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1319, y=63, z=-126}
 [11Apr2025 17:39:32.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pepito> hola amigo
 [11Apr2025 17:39:33.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pepito> lin do
+[11Apr2025 17:46:14.993] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1300, y=71, z=-88}
+[11Apr2025 17:50:26.154] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-70, y=66, z=-20}
+[11Apr2025 17:54:09.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [A Seedy Place]
+[11Apr2025 17:55:03.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [Suit Up]
+[11Apr2025 18:02:54.893] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-69, y=66, z=-42}
+[11Apr2025 18:03:35.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was slain by Nightmare Stalker
+[11Apr2025 18:05:01.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has reached the goal [Exorcism]
+[11Apr2025 18:05:01.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has reached the goal [Big Boy]
+[11Apr2025 18:05:32.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was slain by Zombie
+[11Apr2025 18:06:36.743] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1314, y=70, z=-69}
+[11Apr2025 18:08:22.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Life turned out to be a comedy]
+[11Apr2025 18:08:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Convergent Evolution...]
+[11Apr2025 18:08:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico was slain by Corpse Fish
+[11Apr2025 18:10:06.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-369, y=64, z=40} BlockPos{x=-373, y=63, z=40}
+[11Apr2025 18:10:55.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pasivorico has made the advancement [The Lighthouse]
