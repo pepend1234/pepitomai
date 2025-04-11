@@ -4738,6 +4738,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-04-11 19:01:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-11 17:25:37 +0000"

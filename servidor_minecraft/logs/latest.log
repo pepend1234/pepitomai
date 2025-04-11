@@ -3284,3 +3284,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [11Apr2025 18:47:39.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Klaus'/78849, l='ServerLevel[world]', x=-1224.27, y=72.00, z=210.63] died: Klaus was slain by Zombie
 [11Apr2025 18:50:38.243] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1368, y=63, z=-100}
 [11Apr2025 18:52:46.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pasivorico> -1584,0 -1216 portal
+[11Apr2025 18:58:15.833] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [world:world,valkyrienskies:vs_packet,carryon:carryonpackets,sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[11Apr2025 18:58:15.834] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Apr2025 18:58:15.872] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d28b0f4[id=<null>,name=isebassxd9999,properties={},legacy=false] (/127.151.243.233:41127) lost connection: Connection closed - mismatched mod channel list
+[11Apr2025 19:01:32.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Lorem Ipsum]
+[11Apr2025 19:02:16.905] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d0eaa8a[id=<null>,name=isebassxd9999,properties={},legacy=false] (/127.151.243.233:48611) lost connection: Disconnected
