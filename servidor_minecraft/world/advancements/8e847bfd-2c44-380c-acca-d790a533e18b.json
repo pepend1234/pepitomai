@@ -1979,6 +1979,24 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-04-11 16:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-11 16:54:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-04-11 17:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-11 16:52:35 +0000"
@@ -2018,6 +2036,12 @@
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-04-11 16:52:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-11 16:53:54 +0000"
     },
     "done": true
   },
@@ -2084,6 +2108,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-11 16:37:37 +0000",
+      "minecraft:spider": "2025-04-11 16:59:13 +0000",
+      "minecraft:witch": "2025-04-11 17:03:09 +0000",
       "minecraft:zombie": "2025-04-11 16:26:03 +0000"
     },
     "done": false
@@ -2103,6 +2129,18 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-11 16:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-11 16:59:14 +0000"
     },
     "done": true
   },
@@ -2127,6 +2165,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-11 16:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-11 16:59:14 +0000"
     },
     "done": true
   },
@@ -2355,6 +2399,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-04-11 16:55:51 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
       "has_gold": "2025-04-11 16:22:01 +0000"
@@ -2388,6 +2438,12 @@
   "vs_eureka:recipes/balloon_paper": {
     "criteria": {
       "has_paper": "2025-04-11 16:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-11 17:03:10 +0000"
     },
     "done": true
   },
@@ -2499,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-11 16:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-11 16:22:35 +0000"
@@ -2520,6 +2582,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-11 16:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-11 16:59:14 +0000"
     },
     "done": true
   },
@@ -2562,6 +2630,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-11 16:52:35 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:miphril": {
+    "criteria": {
+      "miphril_0": "2025-04-11 17:00:02 +0000"
     },
     "done": true
   },
@@ -2697,6 +2771,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-04-11 17:02:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-11 16:52:35 +0000"
@@ -2748,6 +2828,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-04-11 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-11 16:59:14 +0000"
     },
     "done": true
   },
@@ -2847,6 +2933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-11 16:59:14 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-11 16:52:35 +0000"
@@ -2895,6 +2987,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-11 16:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:main/fossil": {
     "criteria": {
       "plant_fossil": "2025-04-11 16:50:57 +0000"
@@ -2903,16 +3001,30 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-11 16:54:29 +0000",
       "sweet_berries": "2025-04-11 16:22:40 +0000",
       "cooked_beef": "2025-04-11 16:41:51 +0000",
       "potato": "2025-04-11 16:31:20 +0000",
-      "bread": "2025-04-11 16:22:51 +0000"
+      "bread": "2025-04-11 16:22:51 +0000",
+      "cooked_chicken": "2025-04-11 16:53:56 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 16:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-11 17:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-11 16:59:14 +0000"
     },
     "done": true
   },

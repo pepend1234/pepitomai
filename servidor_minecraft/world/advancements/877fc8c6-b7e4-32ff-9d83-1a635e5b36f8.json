@@ -113,7 +113,8 @@
     "criteria": {
       "maple_woods": "2025-04-11 16:33:00 +0000",
       "field": "2025-04-11 16:18:13 +0000",
-      "coniferous_forest": "2025-04-11 00:26:54 +0000"
+      "coniferous_forest": "2025-04-11 00:26:54 +0000",
+      "fir_clearing": "2025-04-11 16:56:02 +0000"
     },
     "done": false
   },
@@ -408,6 +409,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-11 16:19:51 +0000",
+      "cooked_mutton": "2025-04-11 16:58:23 +0000",
       "sweet_berries": "2025-04-11 00:37:03 +0000",
       "cooked_beef": "2025-04-11 16:32:07 +0000",
       "apple": "2025-04-11 16:38:14 +0000",
@@ -3303,6 +3305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-11 16:56:08 +0000"
+    },
+    "done": true
+  },
   "beautify:rope": {
     "criteria": {
       "requirement": "2025-04-11 16:31:47 +0000"
@@ -3411,6 +3419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-11 16:56:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-04-11 16:48:03 +0000"
@@ -3477,6 +3491,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-04-11 16:56:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-11 16:31:47 +0000"
@@ -3525,6 +3545,12 @@
     },
     "done": true
   },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2025-04-11 16:56:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_terracotta": "2025-04-11 16:41:56 +0000"
@@ -3546,6 +3572,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-11 16:23:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-11 16:58:06 +0000"
     },
     "done": true
   },
@@ -3678,6 +3710,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-11 16:58:06 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
       "has_gold": "2025-04-11 16:16:39 +0000"
@@ -3687,6 +3725,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-11 16:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 16:56:05 +0000"
     },
     "done": true
   },
@@ -3756,6 +3800,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-11 16:57:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-04-11 16:32:35 +0000"
@@ -3804,6 +3854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-11 16:56:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-11 16:31:47 +0000"
@@ -3822,6 +3878,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-04-11 16:56:05 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-04-11 16:56:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-04-11 16:32:56 +0000"
@@ -3837,6 +3905,12 @@
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-04-11 16:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 16:56:05 +0000"
     },
     "done": true
   },
@@ -3888,9 +3962,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-11 16:56:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-04-11 16:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 16:56:05 +0000"
     },
     "done": true
   },
@@ -3924,6 +4010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-11 16:56:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-04-11 16:50:29 +0000"
@@ -3933,6 +4025,18 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-11 16:50:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-11 16:56:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-11 16:56:05 +0000"
     },
     "done": true
   },
@@ -3960,9 +4064,21 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-11 17:02:13 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-11 16:50:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-11 16:58:06 +0000"
     },
     "done": true
   },
