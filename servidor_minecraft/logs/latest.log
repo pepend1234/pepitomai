@@ -1034,3 +1034,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [12Apr2025 20:54:32.415] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1361, y=72, z=-74}
 [12Apr2025 20:59:31.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito fell from a high place
 [12Apr2025 21:18:54.765] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1300, y=70, z=-82}
+[12Apr2025 21:26:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Hot Stuff]

@@ -3437,6 +3437,7 @@
   "endofherobrine:story/exorcist": {
     "criteria": {
       "endofherobrine:chicken": "2025-04-11 16:24:04 +0000",
+      "endofherobrine:silverfish": "2025-04-12 21:27:42 +0000",
       "endofherobrine:cow": "2025-04-11 23:57:24 +0000"
     },
     "done": false
@@ -6449,9 +6450,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-12 21:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-12 21:26:52 +0000"
+    },
+    "done": true
+  },
   "man:feelingwatched": {
     "criteria": {
       "feelingwatched_0": "2025-04-12 20:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-12 21:27:13 +0000"
     },
     "done": true
   },
