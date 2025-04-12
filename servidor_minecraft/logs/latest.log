@@ -1031,3 +1031,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [12Apr2025 20:41:09.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Feeling Watched]
 [12Apr2025 20:50:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito fell from a high place
 [12Apr2025 20:51:08.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Man From The Fog
+[12Apr2025 20:54:32.415] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1361, y=72, z=-74}
+[12Apr2025 20:59:31.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito fell from a high place

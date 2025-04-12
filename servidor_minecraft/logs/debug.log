@@ -6063,3 +6063,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [12Apr2025 20:50:02.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Apr2025 20:50:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito fell from a high place
 [12Apr2025 20:51:08.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Man From The Fog
+[12Apr2025 20:54:32.415] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1361, y=72, z=-74}
+[12Apr2025 20:55:02.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:55:02.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:59:31.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito fell from a high place
+[12Apr2025 21:00:02.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 21:00:02.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
