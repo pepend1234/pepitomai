@@ -4,3 +4,6 @@
 [12Apr2025 00:11:20.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gerdina'/5697, l='ServerLevel[world]', x=-1328.68, y=68.00, z=-112.28] died, message: 'Gerdina was slain by Zombie Lumberjack'
 [12Apr2025 00:11:20.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gerdina'/5697, l='ServerLevel[world]', x=-1328.68, y=68.00, z=-112.28] died: Gerdina was slain by Zombie Lumberjack
 [12Apr2025 00:13:58.534] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1252, y=76, z=-30}
+[12Apr2025 00:23:30.584] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1231, y=69, z=2}
+[12Apr2025 00:24:46.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Diamond Termite
+[12Apr2025 00:29:42.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was shot by Skeleton
