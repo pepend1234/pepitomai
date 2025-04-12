@@ -121,6 +121,7 @@
       "coniferous_forest": "2025-04-11 00:26:54 +0000",
       "lavender_field": "2025-04-11 19:26:19 +0000",
       "fir_clearing": "2025-04-11 16:56:02 +0000",
+      "pumpkin_patch": "2025-04-12 21:49:52 +0000",
       "prairie": "2025-04-11 19:32:53 +0000",
       "crag": "2025-04-11 19:30:20 +0000"
     },
@@ -2280,6 +2281,7 @@
       "minecraft:pillager": "2025-04-11 16:20:00 +0000",
       "minecraft:skeleton": "2025-04-11 16:17:58 +0000",
       "minecraft:vindicator": "2025-04-11 16:34:21 +0000",
+      "minecraft:spider": "2025-04-12 21:37:30 +0000",
       "minecraft:creeper": "2025-04-11 16:23:46 +0000",
       "minecraft:evoker": "2025-04-11 16:36:25 +0000",
       "minecraft:phantom": "2025-04-11 18:50:05 +0000",
@@ -2664,6 +2666,7 @@
     "criteria": {
       "onion": "2025-04-11 18:13:20 +0000",
       "sweet_berries": "2025-04-11 00:51:00 +0000",
+      "potato": "2025-04-12 21:49:16 +0000",
       "wheat": "2025-04-11 17:54:09 +0000",
       "carrot": "2025-04-11 18:03:37 +0000"
     },
@@ -6450,6 +6453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-12 21:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-04-12 21:27:17 +0000"
@@ -6462,15 +6471,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-12 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-12 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-12 21:37:31 +0000"
+    },
+    "done": true
+  },
   "man:feelingwatched": {
     "criteria": {
       "feelingwatched_0": "2025-04-12 20:41:09 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-12 21:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-04-12 21:27:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-12 21:42:06 +0000"
     },
     "done": true
   },

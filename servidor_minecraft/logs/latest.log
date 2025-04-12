@@ -1035,3 +1035,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [12Apr2025 20:59:31.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito fell from a high place
 [12Apr2025 21:18:54.765] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1300, y=70, z=-82}
 [12Apr2025 21:26:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Hot Stuff]
+[12Apr2025 21:35:52.765] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1324, y=107, z=-104}
+[12Apr2025 21:35:55.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepegrillo[/127.153.194.209:49087] logged in with entity id 24505 at (-1312.8932298439047, 70.9375, -81.33696573016068)
+[12Apr2025 21:35:55.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo joined the game
+[12Apr2025 21:35:55.164] [Server thread/INFO] [Jade/]: Syncing config to pepegrillo (5da3b335-3593-30b0-b099-8a34953f5509)
+[12Apr2025 21:38:52.765] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1273, y=77, z=-71}
+[12Apr2025 21:40:15.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was slain by Pepito
+[12Apr2025 21:41:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was slain by Nightmare Stalker
+[12Apr2025 21:41:52.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was slain by Nightmare Stalker
+[12Apr2025 21:42:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo has reached the goal [Fighting Nightmares]
+[12Apr2025 21:42:39.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was poked to death by a sweet berry bush
+[12Apr2025 21:43:54.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo fell from a high place
+[12Apr2025 21:45:05.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo has made the advancement [Dark Metallurgy]
+[12Apr2025 21:45:34.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was blown up by Creeper
+[12Apr2025 21:48:39.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was doomed to fall by Baby Spider
+[12Apr2025 21:51:55.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Pepito: Location (-1484.833131968975, 91.37721779942513, -358.0) too far away from hit block BlockPos{x=-1484, y=91, z=-361}.
+[12Apr2025 21:51:55.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Pepito: Location (-1484.833131968975, 91.37721779942513, -358.0) too far away from hit block BlockPos{x=-1484, y=91, z=-361}.
+[12Apr2025 21:51:55.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Pepito: Location (-1484.9075663685799, 91.64648312330246, -358.0) too far away from hit block BlockPos{x=-1484, y=91, z=-361}.
+[12Apr2025 21:51:55.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Pepito: Location (-1484.9075663685799, 91.64648312330246, -358.0) too far away from hit block BlockPos{x=-1484, y=91, z=-361}.
