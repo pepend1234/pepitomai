@@ -1053,3 +1053,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [12Apr2025 21:51:55.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Pepito: Location (-1484.833131968975, 91.37721779942513, -358.0) too far away from hit block BlockPos{x=-1484, y=91, z=-361}.
 [12Apr2025 21:51:55.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Pepito: Location (-1484.9075663685799, 91.64648312330246, -358.0) too far away from hit block BlockPos{x=-1484, y=91, z=-361}.
 [12Apr2025 21:51:55.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Pepito: Location (-1484.9075663685799, 91.64648312330246, -358.0) too far away from hit block BlockPos{x=-1484, y=91, z=-361}.
+[12Apr2025 21:57:57.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Double Trouble]
+[12Apr2025 22:02:25.215] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1903, y=66, z=-681}
+[12Apr2025 22:02:34.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Clash of the Titans]
+[12Apr2025 22:07:13.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Vex
