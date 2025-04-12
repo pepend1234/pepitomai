@@ -1029,3 +1029,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [12Apr2025 20:37:08.477] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [12Apr2025 20:38:01.719] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1337, y=66, z=-46}
 [12Apr2025 20:41:09.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Feeling Watched]
+[12Apr2025 20:50:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito fell from a high place
+[12Apr2025 20:51:08.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito was slain by Man From The Fog
