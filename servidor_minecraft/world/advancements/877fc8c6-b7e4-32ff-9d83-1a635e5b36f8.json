@@ -5929,6 +5929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-12 00:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-11 23:55:25 +0000"
@@ -5968,6 +5974,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-12 00:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/opal_fossil": {
+    "criteria": {
+      "opal_fossil": "2025-04-12 00:50:02 +0000"
     },
     "done": true
   },
@@ -6172,6 +6184,12 @@
   "mca:recipes/decorations/brown_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 00:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-12 00:47:24 +0000"
     },
     "done": true
   },
