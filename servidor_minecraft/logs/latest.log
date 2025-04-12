@@ -881,3 +881,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:caramelcupcake
 [12Apr2025 16:50:38.812] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [12Apr2025 16:50:38.812] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [12Apr2025 16:50:38.813] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[12Apr2025 16:54:43.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepegrillo[/127.153.194.209:34417] logged in with entity id 2672 at (-241.13534793054833, 63.0, 7.971949827306865)
+[12Apr2025 16:54:43.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo joined the game
+[12Apr2025 16:56:32.185] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1119, y=64, z=72}
+[12Apr2025 17:01:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo has completed the challenge [Berserk Class]
+[12Apr2025 17:03:37.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[12Apr2025 17:03:37.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[12Apr2025 17:08:55.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo has made the advancement [Acquire Hardware]
+[12Apr2025 17:08:57.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo has made the advancement [Amateur Archaeologist]
+[12Apr2025 17:09:02.231] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1353, y=62, z=-151}
+[12Apr2025 17:11:12.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was poked to death by a sweet berry bush
