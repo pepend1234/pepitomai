@@ -5869,6 +5869,252 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-11 23:55:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-12 00:01:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-04-12 00:01:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-04-12 00:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-12 00:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-12 00:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-12 00:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-04-12 00:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-04-12 00:26:59 +0000"
@@ -5905,39 +6151,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-04-12 00:26:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/pine_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-04-12 00:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
     },
     "done": true
   },
@@ -5953,12 +6169,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_cupboard": {
     "criteria": {
       "has_acacia_cupboard": "2025-04-12 00:26:59 +0000"
@@ -5968,36 +6178,6 @@
   "handcrafted:recipes/misc/acacia_chair": {
     "criteria": {
       "has_acacia_chair": "2025-04-12 00:26:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-04-12 00:02:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/opal_fossil": {
-    "criteria": {
-      "opal_fossil": "2025-04-12 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/fir_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
     },
     "done": true
   },
@@ -6013,21 +6193,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/acacia_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-04-12 00:26:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
     },
     "done": true
   },
@@ -6067,18 +6235,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-12 00:01:14 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/orange_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 00:26:59 +0000"
@@ -6088,18 +6244,6 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-04-12 00:26:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
     },
     "done": true
   },
@@ -6133,30 +6277,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/andesite_pillar_trim": {
-    "criteria": {
-      "has_andesite_pillar_trim": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2025-04-12 00:26:59 +0000"
@@ -6169,12 +6289,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-04-12 00:22:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-12 00:26:59 +0000"
@@ -6184,12 +6298,6 @@
   "mca:recipes/decorations/brown_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 00:26:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-04-12 00:47:24 +0000"
     },
     "done": true
   },
@@ -6217,45 +6325,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/andesite_corner_trim": {
-    "criteria": {
-      "has_andesite_corner_trim": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/rock_path": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_side_table": {
     "criteria": {
       "has_acacia_side_table": "2025-04-12 00:26:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
     },
     "done": true
   },
@@ -6265,51 +6337,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_nightstand": {
     "criteria": {
       "has_acacia_nightstand": "2025-04-12 00:26:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-12 00:26:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
     },
     "done": true
   },
@@ -6331,33 +6367,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2025-04-12 00:01:15 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/gray_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 00:26:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
     },
     "done": true
   },
@@ -6385,30 +6397,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-11 23:55:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2025-04-12 00:11:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
-    "criteria": {
-      "has_item": "2025-04-12 00:01:15 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/pink_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 00:26:59 +0000"
@@ -6421,15 +6409,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-04-12 00:26:23 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/red_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-04-12 00:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-12 00:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-12 00:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/opal_fossil": {
+    "criteria": {
+      "opal_fossil": "2025-04-12 00:50:02 +0000"
     },
     "done": true
   },
