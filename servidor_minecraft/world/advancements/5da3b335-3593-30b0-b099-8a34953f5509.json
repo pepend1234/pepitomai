@@ -2302,6 +2302,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-04-13 20:44:43 +0000",
       "minecraft:zombie": "2025-04-12 17:36:46 +0000"
     },
     "done": false
@@ -2486,11 +2487,125 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
   "simplefarming:crops": {
     "criteria": {
       "sweet_potato": "2025-04-13 20:13:29 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_3": "2025-04-13 20:39:39 +0000"
+    },
+    "done": false
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-13 20:36:34 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-04-13 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-13 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-13 20:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-13 20:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-13 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_string": "2025-04-13 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-13 20:36:15 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -6304,3 +6304,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [13Apr2025 20:37:08.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo has made the advancement [Isn't It Iron Pick]
 [13Apr2025 20:37:57.544] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1338, y=69, z=-68}
 [13Apr2025 20:39:23.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Dark Blacksmith]
+[13Apr2025 20:39:43.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was slain by Pepito
+[13Apr2025 20:40:26.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 20:40:26.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 20:44:49.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepegrillo lost connection: Disconnected
+[13Apr2025 20:44:49.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo left the game
+[13Apr2025 20:44:51.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepito lost connection: Disconnected
+[13Apr2025 20:44:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito left the game
+[13Apr2025 20:45:05.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Apr2025 20:45:05.544] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[13Apr2025 20:45:05.546] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[13Apr2025 20:45:05.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Apr2025 20:45:05.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Apr2025 20:45:05.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Apr2025 20:45:05.549] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[13Apr2025 20:45:05.551] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[13Apr2025 20:45:05.590] [DefaultDispatcher-worker-3/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[13Apr2025 20:45:05.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Apr2025 20:45:08.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/world:madnessdimension
+[13Apr2025 20:45:08.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/unearthed_journey:neogene
+[13Apr2025 20:45:08.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[13Apr2025 20:45:08.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/unearthed_journey:paleogene
+[13Apr2025 20:45:08.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/world:worldtest_1
+[13Apr2025 20:45:08.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[13Apr2025 20:45:08.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Apr2025 20:45:08.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Apr2025 20:45:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/unearthed_journey:pleistocene
+[13Apr2025 20:45:08.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 20:45:08.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 20:45:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Apr2025 20:45:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (madnessdimension): All chunks are saved
+[13Apr2025 20:45:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (neogene): All chunks are saved
+[13Apr2025 20:45:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[13Apr2025 20:45:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (paleogene): All chunks are saved
+[13Apr2025 20:45:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (worldtest_1): All chunks are saved
+[13Apr2025 20:45:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[13Apr2025 20:45:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Apr2025 20:45:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Apr2025 20:45:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pleistocene): All chunks are saved
+[13Apr2025 20:45:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Apr2025 20:45:08.866] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Apr2025 20:45:08.867] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/pepitomai/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23215!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23276!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13Apr2025 20:45:08.868] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Apr2025 20:45:08.869] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Apr2025 20:45:08.869] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[13Apr2025 20:45:08.872] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

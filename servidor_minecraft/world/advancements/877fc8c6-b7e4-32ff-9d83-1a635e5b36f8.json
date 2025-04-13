@@ -6682,6 +6682,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_3": "2025-04-13 20:39:24 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-04-13 20:32:05 +0000"
@@ -6763,6 +6769,12 @@
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2025-04-13 20:32:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-04-13 20:39:23 +0000"
     },
     "done": true
   },
