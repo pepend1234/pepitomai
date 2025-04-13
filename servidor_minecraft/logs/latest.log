@@ -1034,3 +1034,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [13Apr2025 20:12:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was slain by Corpse Fly
 [13Apr2025 20:13:08.544] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1310, y=70, z=-95}
 [13Apr2025 20:14:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo was slain by Enderman
+[13Apr2025 20:25:09.244] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1360, y=63, z=-97}
