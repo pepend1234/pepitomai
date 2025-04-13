@@ -6295,3 +6295,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [13Apr2025 20:25:09.244] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1360, y=63, z=-97}
 [13Apr2025 20:25:26.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 20:25:26.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 20:30:26.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 20:30:26.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 20:33:29.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has made the advancement [Dark Forging]
+[13Apr2025 20:35:25.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 20:35:26.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 20:35:31.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo has made the advancement [Suit Up]
+[13Apr2025 20:37:08.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepegrillo has made the advancement [Isn't It Iron Pick]
+[13Apr2025 20:37:57.544] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1338, y=69, z=-68}
+[13Apr2025 20:39:23.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepito has reached the goal [Dark Blacksmith]
