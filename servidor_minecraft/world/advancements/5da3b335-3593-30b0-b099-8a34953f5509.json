@@ -2486,5 +2486,11 @@
     },
     "done": true
   },
+  "simplefarming:crops": {
+    "criteria": {
+      "sweet_potato": "2025-04-13 20:13:29 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
